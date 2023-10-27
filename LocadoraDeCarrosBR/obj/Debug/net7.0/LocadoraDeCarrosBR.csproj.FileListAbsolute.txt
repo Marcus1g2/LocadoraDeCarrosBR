@@ -1,0 +1,14 @@
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\LocadoraDeCarrosBR\LocadoraDeCarrosBR\bin\Debug\net7.0\LocadoraDeCarrosBR.exe
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\LocadoraDeCarrosBR\LocadoraDeCarrosBR\bin\Debug\net7.0\LocadoraDeCarrosBR.deps.json
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\LocadoraDeCarrosBR\LocadoraDeCarrosBR\bin\Debug\net7.0\LocadoraDeCarrosBR.runtimeconfig.json
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\LocadoraDeCarrosBR\LocadoraDeCarrosBR\bin\Debug\net7.0\LocadoraDeCarrosBR.dll
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\LocadoraDeCarrosBR\LocadoraDeCarrosBR\bin\Debug\net7.0\LocadoraDeCarrosBR.pdb
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\LocadoraDeCarrosBR\LocadoraDeCarrosBR\obj\Debug\net7.0\LocadoraDeCarrosBR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\LocadoraDeCarrosBR\LocadoraDeCarrosBR\obj\Debug\net7.0\LocadoraDeCarrosBR.AssemblyInfoInputs.cache
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\LocadoraDeCarrosBR\LocadoraDeCarrosBR\obj\Debug\net7.0\LocadoraDeCarrosBR.AssemblyInfo.cs
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\LocadoraDeCarrosBR\LocadoraDeCarrosBR\obj\Debug\net7.0\LocadoraDeCarrosBR.csproj.CoreCompileInputs.cache
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\LocadoraDeCarrosBR\LocadoraDeCarrosBR\obj\Debug\net7.0\LocadoraDeCarrosBR.dll
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\LocadoraDeCarrosBR\LocadoraDeCarrosBR\obj\Debug\net7.0\refint\LocadoraDeCarrosBR.dll
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\LocadoraDeCarrosBR\LocadoraDeCarrosBR\obj\Debug\net7.0\LocadoraDeCarrosBR.pdb
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\LocadoraDeCarrosBR\LocadoraDeCarrosBR\obj\Debug\net7.0\LocadoraDeCarrosBR.genruntimeconfig.cache
+C:\Users\Marcu\OneDrive\Documents\GitHub\C#\LocadoraDeCarrosBR\LocadoraDeCarrosBR\obj\Debug\net7.0\ref\LocadoraDeCarrosBR.dll
